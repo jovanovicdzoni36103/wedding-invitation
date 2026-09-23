@@ -23,4 +23,4 @@ There is very little JavaScript here. The form handling and email notifications 
 
 ## Demo
 
-[View the invitation](https://pozivnica-za-svadbu-slobodan-ivana.webflow.io)
+The live invitation is not linked here because its address contains the couple's names.
